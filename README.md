@@ -12,6 +12,7 @@ This project provides a web-based tool to convert VCF (vCard File) files into CS
 - Convert VCF files to CSV format
 - Download the converted CSV file
 - Preview the converted data directly in the browser
+- Support for arabic names
 
 ## Usage
 
